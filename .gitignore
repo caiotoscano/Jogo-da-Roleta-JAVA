@@ -1,2 +1,16 @@
+# Arquivos compilados Java
 *.class
+
+# Pastas de build/compilação
+bin/
 out/
+build/
+target/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE
+.vscode/
+.idea/
